@@ -1,6 +1,6 @@
 .row {
     display: flex;
-    justify-content: center;
+    justify-content: space between;
     align-items: center;
             padding-top: 50px;
             padding-right: 30px;
@@ -32,6 +32,7 @@ h1{
     background-color: rgba(255, 255, 255, 0.71);
     border-radius: 12px;
     border: 1px solid rgba(209, 213, 219, 0.3);
+
 }
 
 
